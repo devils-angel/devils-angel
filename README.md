@@ -1,6 +1,9 @@
-![Header](https://images.unsplash.com/photo-1537432376769-00a96fba1d94?auto=format&fit=crop&w=1400&q=80)
+<img src="https://github.com/user-attachments/assets/769a41f6-a3d5-41bd-838d-15bfbd22e657" alt="banner" style="width:100%;" />
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yukta Shah!
+<h3 align="center">
+  Hi there 👋<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F4B0&center=true&vCenter=true&width=435&lines=I'm+Yukta+Shah+💻" alt="Typing SVG" />
+</h3>
 
 🎓 MS in Computer Science @ University of Texas at Dallas 
 
@@ -69,7 +72,7 @@
 
 ### 🏢 Work Experience Highlights
 
-**UBS | Technology Analyst**  
+**UBS | Software Engineer**  
 📊 Designed data visualizations and statistical models using Databricks & PySpark to streamline 10M+ trade batches across 600+ scenarios, improving efficiency by 40%.  
 💻 Migrated legacy systems from Sybase to C++ with RDBMS caching and event-driven design, reducing downtime by 20%.  
 🛡️ Boosted system security by 50% through SSL upgrades and 100+ vulnerability fixes; improved monitoring accuracy by 35% using Grafana & Prometheus.  
