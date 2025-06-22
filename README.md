@@ -1,14 +1,18 @@
-![Header](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&w=1400&q=80)
+![Header](https://images.unsplash.com/photo-1607703703467-3c2a2302f2bb?auto=format&fit=crop&w=1000&q=80)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yukta Shah!
 
-💻 Software Engineer | 🚀 Data Engineer | 🔍 Full-Stack Developer  
-🎓 MS in Computer Science @ UT Dallas | Ex-Technology Analyst @ UBS, Credit Suisse  
-🏆 2x Hackathon Winner | Passionate about clean code, scalable systems, and building real-world tech!
+🎓 MS in Computer Science @ University of Texas at Dallas
+👩‍💻 Ex - Software Engineer at UBS [@UBS](https://www.ubs.com)
+💻 Bachelor of Technology from Sardar Vallabhbhai National Institute of Technology
+🏆 2x Hackathon Champions at national Level and International level
+🎨 Love to draw - an artist by heart and brimming with creativity
+🔥 Passionate about clean code, scalable systems, and building real-world tech!
+🔍 Always curious and lifelong learner
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🧩 Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -50,7 +54,8 @@
 
 ### 📊 GitHub Stats
 
-|<img src="https://github-readme-stats.vercel.app/api?username=devils-angel&show_icons=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=devils-angel&theme=radical"/>|
+<!--|<img src="https://github-readme-stats.vercel.app/api?username=devils-angel&show_icons=true&theme=radical"/>|-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devils-angel&theme=radical"/>|
 |---|---|
 <div align="center">
 
@@ -62,10 +67,10 @@
 ### 🏢 Work Experience Highlights
 
 ** UBS | Technology Analyst**  
-🔹 Streamlined trade batch processing for 10M+ trades across 600+ scenarios by designing data visualizations and statistical models using Databricks & PySpark — improved system efficiency by 40%.
-🔹 Migrated legacy systems to C++ with event-driven architecture  
-🔹 Developed Kafka-based jobs, improved alerting with Grafana & Prometheus  
-🔹 Built intelligent assistants using RASA, Python, and FastAPI
+📊 Designed data visualizations and statistical models using Databricks & PySpark to streamline 10M+ trade batches across 600+ scenarios, improving efficiency by 40%.  
+💻 Migrated legacy systems from Sybase to C++ with RDBMS caching and event-driven design, reducing downtime by 20%.  
+🛡️ Boosted system security by 50% through SSL upgrades and 100+ vulnerability fixes; improved monitoring accuracy by 35% using Grafana & Prometheus.  
+⚙️ Delivered 5+ batch jobs weekly using Kafka & Hazelcast; ran PoCs with FastAPI to enhance event-driven workflows.
 
 ---
 
