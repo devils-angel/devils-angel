@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/769a41f6-a3d5-41bd-838d-15bfbd22e657" alt="banner" style="width:100%;" />
-
 <h3 align="center">
   Hi there 👋<br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F4B0&center=true&vCenter=true&width=435&lines=I'm+Yukta+Shah+💻" alt="Typing SVG" />
@@ -101,6 +99,8 @@
 </p>
 
 ---
+
+<img src="https://github.com/user-attachments/assets/769a41f6-a3d5-41bd-838d-15bfbd22e657" alt="banner" style="width:100%;" />
 
 <div align="center">
 
